@@ -1,6 +1,9 @@
 public class User {
     // Fields to store user data
-
+    private int age;
+    private int physicalFunctioning;
+    private int mentalFunctioning;
+    private String name;
     // No-argument constructor
     public User() {
         this.name = "";
