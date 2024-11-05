@@ -18,7 +18,7 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
 > As an [FIA Licensing Official], <br> 
-> I want to [I want to analyze whether or not a person is fit to own an F1 professional driver's license.], <br> 
+> I want to [analyze whether or not a person is fit to own an F1 professional driver's license.], <br> 
 > so that I can [make sure a person is qualified to continue or start racing in F1 keeping peoples entertainment safe with minimum chance of danger]. 
 
 ## Dataset 
